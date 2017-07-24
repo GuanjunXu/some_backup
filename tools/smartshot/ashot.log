@@ -1,0 +1,16 @@
+2014-11-17 19:46:31,350 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:41] smartshot(main): initialize
+2014-11-17 19:46:31,361 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:51] smartshot(main): parse argument
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:81] 
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:82] Usage: shot [options] platform
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:83] 
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:84]     -p      platform: android or tizen
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:85] 
+2014-11-17 19:46:31,362 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:86] 
+2014-11-17 19:47:14,414 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:41] smartshot(main): initialize
+2014-11-17 19:47:14,416 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:51] smartshot(main): parse argument
+2014-11-17 19:47:14,416 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:81] 
+2014-11-17 19:47:14,416 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:82] Usage: shot [options] platform
+2014-11-17 19:47:14,417 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:83] 
+2014-11-17 19:47:14,417 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:84]     -p      platform: android or tizen
+2014-11-17 19:47:14,417 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:85] 
+2014-11-17 19:47:14,417 TRACE [AWT-EventQueue-0] c.m.a.AShot [AShot.java:86] 

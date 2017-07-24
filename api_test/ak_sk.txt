@@ -1,0 +1,22 @@
+'ak' => 'superlvr',
+'sk' => 'fa034ce350e72d8a3960ba560150cd62',
+
+uid:       42206040
+token:     103ec75801yELWau1m3VlzOQLm1dxKSNCXIc1jpTD8CckagJSsdgeji3HlbjdRhSGm1cN0ljI
+userName:  13311225078
+
+
+http://vr.scloud.letv.com/v1/channel/videoList?_ak=superlvr&ispay=-1&vtype=3&cg=1&ps=24&pn=1&_time=1470211627&sort=3&stt=1&_sign=0007a61a81824c2c3086d1a7196afc9d
+
+
+
+20160809_103000_time = 1470709738
+
+
+
+\\imgrepo-cnbj-mobile.devops.letv.com\dailybuild\ruby\cn\le_x2\daily\20160807\full_x820_ruby_dev_leui_FEXCNFN5833308071D_20160807_050452_whole_netcom_userdebug
+
+
+http://vr.scloud.letv.com/api/levision/channel/v1/1/page/1?_ak=superlvr&_time=1470709738&pn=1&ps=5&vtype=1&_sign=5cdbc16569047e3d579f227c271a0142
+
+http://vr.scloud.letv.com/api/levision/channel/v1/1/page/1?_ak=superlvr&_time=1470709738&ps=5&_sign=9f5232a0805d623460b2f1bda0127736

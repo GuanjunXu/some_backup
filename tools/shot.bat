@@ -1,0 +1,1 @@
+java -jar ./smartshot/smartshot.jar -p android
